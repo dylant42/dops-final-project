@@ -18,8 +18,8 @@ var listOfPetURLs = [
     "https://static.pexels.com/photos/37337/cat-silhouette-cats-silhouette-cat-s-eyes.jpg?w=1260&h=750&dpr=2&auto=compress&cs=tinysrgb",
     "https://static.pexels.com/photos/248306/pexels-photo-248306.jpeg?w=1260&h=750&dpr=2&auto=compress&cs=tinysrgb",
     "https://static.pexels.com/photos/46533/guinea-pig-smooth-hair-gold-agouti-young-animal-46533.jpeg?w=1260&h=750&dpr=2&auto=compress&cs=tinysrgb",
+    "https://www.google.co.uk/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjB7rDa6_PcAhVKWxoKHXILChUQjRx6BAgBEAU&url=https%3A%2F%2Fwww.ticketfly.com%2Fevent%2F1683845-whale-cat-san-diego%2F&psig=AOvVaw3J5mB17AVF2NgZ65eQVjYY&ust=1534586860301177"
     "https://static.pexels.com/photos/372166/pexels-photo-372166.jpeg?w=1260&h=750&dpr=2&auto=compress&cs=tinysrgb",
-    "https://static.pexels.com/photos/786273/pexels-photo-786273.jpeg?w=1260&h=750&dpr=2&auto=compress&cs=tinysrgb",
     "https://static.pexels.com/photos/234054/pexels-photo-234054.jpeg?w=1260&h=750&dpr=2&auto=compress&cs=tinysrgb",
     "https://static.pexels.com/photos/735640/pexels-photo-735640.jpeg?w=1260&h=750&dpr=2&auto=compress&cs=tinysrgb",
     "https://static.pexels.com/photos/236589/pexels-photo-236589.jpeg?w=1260&h=750&dpr=2&auto=compress&cs=tinysrgb"
